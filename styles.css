@@ -10,34 +10,11 @@ body {
     color: #333;
 }
 
-header {
-    background-color: #eaeaea;
-    padding: 10px;
-    text-align: center;
-}
 
-nav {
-    display: flex;
-    justify-content: space-around;
-    margin-bottom: 10px;
-}
 
-.nav-icon {
-    font-size: 20px;
-    text-decoration: none;
-    color: black;
-}
 
-.url-bar {
-    background-color: #ddd;
-    padding: 5px;
-    text-align: center;
-}
 
-h1 {
-    font-size: 24px;
-    margin-bottom: 20px;
-}
+
 
 main {
     padding: 20px;
